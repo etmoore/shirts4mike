@@ -7,7 +7,7 @@ include('inc/header.php'); ?>
     <div class="wrapper">
       <h1>Contact</h1>
       <p>I&rsquo;d love to hear from you! Complete the form to send me an email.</p>
-      <form action="" method="post">
+      <form action="contact-process.php" method="post">
         <table>
           <tr>
             <th>
